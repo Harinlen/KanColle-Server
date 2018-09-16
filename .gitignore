@@ -1,2 +1,4 @@
 .spyproject
 akagi
+db.sqlite3
+*__pycache__*
